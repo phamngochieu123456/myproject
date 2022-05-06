@@ -12,8 +12,3 @@ Từ khóa học:
     git add, các file thay đổi trở thành staged files)
 
 - Để commit vào git directory, sử dụng lệnh git commit  
-
-- Sau khi add index1.html với nội dung sai, thực hiện: 
-git reset head index1.html
-git checkout index1.html
-
